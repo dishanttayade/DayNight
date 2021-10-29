@@ -58,3 +58,14 @@ body {
   justify-content: space-between;
   margin-bottom: 0.5%;
 }
+.switch{
+  text-align: center;
+  font-size: 24px;
+}
+.switch a{
+  text-decoration: none;
+  color: white;
+}
+.switch a:hover{
+  color: grey;
+}
